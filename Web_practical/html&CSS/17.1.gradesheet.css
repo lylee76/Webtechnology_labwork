@@ -1,0 +1,36 @@
+.container
+{
+    text-align: center;
+    padding: auto;
+} 
+
+table
+{
+margin: auto;
+padding: auto;
+height: 600px;
+width: 50%;
+}
+
+.container h1{
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+.container table {
+    text-align: left;
+}
+
+th {
+ padding:0px 37px ;
+}
+
+td
+{
+    padding: 0px 37px;
+}
+
+span{
+    font-weight: bold;
+}

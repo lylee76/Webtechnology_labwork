@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="5.xsd">
+    <student id="1">
+        <name>
+            <fname>Anu</fname>
+            <lname>Kumri</lname>
+        </name>
+        <email>anu321@gmail.com</email>
+        <phone>981803578</phone>
+        <address>
+            <permanent address="Jhapa"></permanent>
+            <temporary address="Kathmandu"></temporary>
+        </address>
+        <dob>2004-05-04</dob>
+    </student>
+    <student id="2">
+        <name>
+            <fname>Amylee</fname>
+            <mname>Pakhrin</mname>
+            <lname>Tamang</lname>
+        </name>
+        <email>amylee123@gmail.com</email>
+        <phone>9834125687</phone>
+        <address>
+            <permanent address="Sarlahi"></permanent>
+            <temporary address="Kathmandu"></temporary>
+        </address>
+        <dob>2003-09-22</dob>
+    </student>
+</students>

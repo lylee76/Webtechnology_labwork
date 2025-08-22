@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="7.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<!DOCTYPE movies SYSTEM "7.dtd">
+<movies>
+  <Movie id="M1">
+	<title>Priscilla</title>
+	<year>2023</year>
+	<_director>Sofia Coppola</_director>
+	<comment>It follows the life of Priscillla and her romantic relationship with Elvis presley</comment>
+	<newcomment>Awesome Movie</newcomment>
+  </Movie>
+  <Movie id="M2">
+	<title>Spider-Man</title>
+	<year>2002</year>
+	<_director>Sam Raimi</_director>
+	<comment>Spider-Man is a popular superhero film franchise based on the Marvel Comics character of the same name. </comment>
+	<newcomment>Amazing movie</newcomment>
+  </Movie>
+</movies>

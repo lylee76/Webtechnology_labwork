@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+<xs:element name="book">
+<xs:complexType>
+    <xs:sequence>
+        <xs:element name="title" type="xs:string">
+             </xs:element>
+             <xs:sequence>
+                <xs:element name="author" >
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="fname"></xs:element>
+                            <xs:element name="lname"></xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+            </xs:element>
+             </xs:sequence>
+             <xs:sequence>
+                <xs:element name="isbn" type="xs:int"></xs:element>
+             </xs:sequence>
+             <xs:sequence>
+                <xs:element name="publisher" type="xs:string"></xs:element>
+             </xs:sequence>
+             <xs:sequence>
+                <xs:element name="edition" type="xs:string"></xs:element>
+             </xs:sequence>
+             <xs:sequence>
+                <xs:element name="price"></xs:element>
+
+
+
+             </xs:sequence>
+
+    </xs:sequence>  
+  </xs:complexType>
+  </xs:element>
+</xs:schema>

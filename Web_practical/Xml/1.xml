@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="1.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<!DOCTYPE book SYSTEM "1.dtd">
+<book>
+    <title>Web Technology</title>
+    <author>
+        <fname>Basanta</fname>
+        <lname>Chapagain</lname>
+    </author>
+    <isbn>56784323</isbn>
+    <publisher>KEC</publisher>
+    <edition>5th</edition>
+    <price currency="npr">400</price>
+</book>

@@ -1,0 +1,20 @@
+ul{
+    border: 1px solid yellow;
+    background-color: beige;
+    padding: 10px 0;
+}
+
+ul li{
+    display:inline;
+
+}
+
+ul li a  {
+    color: rgb(165, 42, 42);
+    text-decoration: none;
+    padding: 10px 5px;
+    background-color: rgb(211, 205, 255);
+    display: inline-block;
+
+}
+

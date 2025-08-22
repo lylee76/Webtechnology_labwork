@@ -1,0 +1,55 @@
+* {
+    box-sizing: content-box;
+    zoom: 1;
+}
+
+body {
+    font-size: 19 px;
+
+}
+
+input {
+    width: 100%;
+    padding: 0px 0px;
+    color: blue;
+}
+
+.field-group {
+    
+    margin-bottom:5px;}
+
+button{
+    background-color:red;
+    padding: 10px 20px;
+    border: 0;
+    color: aliceblue;
+    cursor: pointer;
+}
+button:hover {
+     background-color: hotpink;
+}
+
+.inline-box label,
+.inline-box input{
+        display:inline-block;
+        width: auto;
+}
+
+legend{
+    text-align: center;
+}
+
+h2{
+    color: rgb(213, 23, 23);
+    text-align: center;
+}
+
+[type*="reset"]{
+    background-color: blue;
+}
+
+fieldset{
+    max-width: 600px;
+    margin: 0 auto;
+    
+}

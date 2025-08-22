@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book>
+    <title>Web Technology</title>
+    <author>
+        <fname>Basanta</fname>
+        <lname>Chapagain</lname>
+    </author>
+    <isbn>66555447</isbn>
+    <publisher>KEC</publisher>
+    <edition>4th</edition>
+    <price currency="npr">200</price>
+</book>

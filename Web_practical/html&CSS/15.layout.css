@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+.header{
+    background-color: black;
+    text-align: center;
+    padding: 10px 0;
+}
+.menu{
+    background-color: pink;
+    color: black;
+    padding: 5px 0 5px 25px;
+}
+
+.leftside{
+    background-color: brown;
+    width: 20%;
+    height: 300px;
+    text-align: center;
+    padding-top: 20px;
+    float: left;
+}
+.content{
+    background-color:cadetblue;
+    width: 60%;
+    height: 300px;
+    text-align: center;
+    padding-top: 20px;
+    float: left;
+}
+.right{
+    background-color:purple;
+    width: 20%;
+    height: 300px;
+    text-align: center;
+    padding-top: 20px;
+    float: right;
+}
+.footer{
+    clear: both;
+    background-color: coral;
+    text-align: center;
+    padding: 5px;
+}

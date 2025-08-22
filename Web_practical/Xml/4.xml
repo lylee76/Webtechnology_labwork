@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="4.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<books   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="4.xsd">
+
+    <book id="1">
+        <title>Web Technology</title>
+        <author title="mr.">
+        <fname>Basanta</fname>
+        <lname>Chapagain</lname>
+        </author>
+        <isbn>200</isbn>
+        <phone>980000000</phone>
+        <email>132@gmail.com</email>
+        <price currency="Usd">600</price>
+    </book>
+
+    <book id="2">
+        <author title="ms.">
+        <fname>Amylee</fname>
+        <mname>Pakhrin</mname>
+        <lname>Tamang</lname>
+        </author>
+        <isbn>000</isbn>
+        <phone>9810367014</phone>
+        <email>abc1@gmail.com</email>
+        <price currency="npr">355</price>
+    </book>
+
+    <book id="3">
+        <title>OOP Java</title>
+        <author title="mrs.">
+        <fname>Kumari</fname>
+        <lname>Ghalan</lname>
+        </author>
+        <isbn>666</isbn>
+        <phone>0000000000</phone>
+        <email>K123@gmail.com</email>
+        <price currency="npr">400</price>
+    </book>
+</books>

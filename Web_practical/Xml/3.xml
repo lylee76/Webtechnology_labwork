@@ -1,0 +1,53 @@
+﻿
+<?xml version="1.0" encoding="UTF-8"?>
+<songs>
+<song  id="1">
+<name>Add</name >
+<singer>
+<fname>Ed</fname>
+<lname>Sheeran</lname>
+</singer>
+<composer>
+<fname>Jay</fname>
+<lname>Nethan</lname>
+ </composer>
+<length duration="3:00"></length>
+</song>
+<song  id="2">
+<name>Blank space</name >
+<singer>
+<fname>Taylor</fname>
+<lname>Swift</lname>
+</singer>
+<composer>
+<fname>Amylee</fname>
+<lname>Pakhrin</lname>
+</composer>
+<length duration="3:45"></length>
+</song>
+<song  id="3">
+<name>Cinnamon Roll</name >
+<singer>
+<fname>Lana</fname>
+<mname>Del</mname>
+<lname>Rey</lname>
+</singer>
+<composer>
+<fname>Shaily</fname>
+<lname>Mukarung</lname>
+</composer>
+<length duration="2:50"></length>
+</song>
+<song  id="4">
+<name>No other Heart</name >
+<singer>
+<fname>Mac</fname>
+<lname>Demarco</lname>
+</singer>
+<composer>
+<fname>Sonu</fname>
+<lname>Gurung</lname>
+</composer>
+<length duration="3:30"></length>
+</song>
+</songs>
